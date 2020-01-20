@@ -1,5 +1,5 @@
-# GCA (Gesture Controlled Arm) HACKED 2020 Project
-Best Hardware Project winner as well as 2nd place overall!
+# GCA (Gesture Controlled Arm) HACKED 2020 
+# Best Hardware Project Winner and 2nd Overall!
 
 Group Members: Dawood Ali, Amro Amanuddein, Me (Ahmed S. Ahmed), and Portia Rayner
 
