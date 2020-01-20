@@ -1,5 +1,6 @@
 /*
  * Read accelerometer data and recieve extra from the mpu6050. Then transmit to the arm.
+ **NOT USED IN CURRENT BUILD BUT WE SPENT A LOT OF TIME LOOKING AT A SOLUTION THAT WOULD INCLUDE THIS
  */
 #include <Adafruit_CircuitPlayground.h>
 
