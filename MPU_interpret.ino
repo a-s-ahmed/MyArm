@@ -1,6 +1,9 @@
 /*
   This script reads in the accelerometer's data and convers the reading to mimic a gyroscope's before
   adjusting it by the required error and sends the reading to the playground express.
+  
+  **NOT FINAL CODE. PLEASE SEE Winning_Project.ino. THE FUNCTION calculate_IMU_error is necessary to callibrate your own mpu6050 to
+  generate the Error values.
 */
 
 #include <Wire.h>
