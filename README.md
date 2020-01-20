@@ -41,4 +41,4 @@ Connect the arduino to your computer via usb and upload winning_project.ino. Rot
 
 # Planned Upgrades:
 
-Current build is completely wired however we almost finished implementing the wireless version using transcievers within the alloted 24 hours. This update will be coming soon. We're also in the process of coming up with a design to overhaule the motion-sensing to allow better motion-tracking and remove the need for a second mode to control the secondary arm which we plan to implement far in the future or even at another Hackathon. 
+Current build is completely wired however we almost finished implementing the wireless version using transcievers within the alloted 24 hours. This update will be coming soon. We're also in the process of coming up with a design to overhaul the motion-sensing to allow better motion-tracking and remove the need for a second mode to control the secondary arm which we plan to implement far in the future or even at another Hackathon. 
