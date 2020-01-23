@@ -3,7 +3,7 @@
 
 My Group Members: Dawood Ali, Amro Amanuddein, and Portia Rayner
 
-Create a lasercut robotic arm which can remotely emulate your own
+Create a lasercut robotic arm which can remotely emulate your own within 24 hours
 
 The physical arm itself is actually the MeArm (https://www.instructables.com/id/Pocket-Sized-Robot-Arm-meArm-V04/) which we lasercut and assembled for the competition. Massive shout out to Dejan author of the article "Arduino and MPU6050 Accelerometer and Gyroscope Tutorial" (https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/) which showcases a way to use the accelerometer to create a gimbal with the mpu6050. After researching further, this project does have some similarities with other hand-motion controlled robotic arms however we based this code off of the tutorial in Dejan's article as well as this article about how to use the mpu6050 (https://playground.arduino.cc/Main/MPU-6050/#short). 
 
