@@ -1,8 +1,8 @@
 /*
 
-  This script reads in the accelerometer's data and convers the reading to mimic a gyroscope's before
+  This script reads in the accelerometer's data and converts the reading to mimic a gyroscope's before
 
-  adjusting it by the required error and sends the reading to the playground express.
+  adjusting it by the required error and sends the reading to the transciever.
 
 */
 
