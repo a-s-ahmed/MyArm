@@ -11,7 +11,8 @@ The physical arm itself is actually the MeArm (https://www.instructables.com/id/
 # Components:
 
 For Initial Design:
-      1 x Winning_project.ino
+      
+      1 x V1 folder
       
       1 x MPU6050 (accelerometer and gyroscope)
 
@@ -21,9 +22,8 @@ For Initial Design:
 
      
 For Final Design:
-      1 x final_accel_send.ino
       
-      1 x final_received.ino
+      1 x V2 folder.
       
       2 x MPU6050 (accelerometer and gyroscope)
       
