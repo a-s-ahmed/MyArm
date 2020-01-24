@@ -1,7 +1,7 @@
 # Emulate Arm Motion On Robotic Arm: HACKED 2020 
 # Best Hardware Project Winner and 2nd Overall!
 
-Group Members: Dawood Ali, Amro Amanuddein, and Portia Rayner
+Group Members: Dawood Ali, Amro Amanuddein, Ahmed Sharif Ahmed, and Portia Rayner
 
 Create a lasercut robotic arm which can remotely emulate your own within 24 hours
 
