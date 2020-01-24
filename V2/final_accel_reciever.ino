@@ -1,3 +1,9 @@
+
+/*
+  This script recieves the accelerometer data from the sender transciever and uses the data 
+  to write the recieved angles to the 4 different servo's
+*/
+
 #include <SPI.h>
 #include <RF24.h>
 #include <Servo.h>
