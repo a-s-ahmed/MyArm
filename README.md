@@ -1,7 +1,7 @@
 # Emulate Arm Motion On Robotic Arm: HACKED 2020 
 # Best Hardware Project Winner and 2nd Overall!
 
-Group Members: Dawood Ali, Amro Amanuddein, Ahmed Sharif Ahmed, and Portia Rayner
+Group Members: Dawood Ali, Amro Amanuddein, and Portia Rayner
 
 Create a lasercut robotic arm which can remotely emulate your own within 24 hours
 
@@ -56,6 +56,5 @@ Connect the arduino to your computer via usb and upload winning_project.ino. Rot
 # Running Instructions V2:
 *This build allows for wireless motion emulation*
 
-This is the wireless version where we overhauled the motion-sensing and no longer require two modes. (We didnt have access to a touch sensor so minor modification is necessary to implement that. For this build if you were to rotate your arm the base would rotate, if your went up and down with your elbow the main arm would go up and down, and if you rotate about your wrist the smaller arm would respond.
-
+This is the wireless version where we overhauled the motion-sensing and no longer require two modes. We didnt have access to a touch sensor so minor modification is necessary to implement that. Control the main arm by moving your whole arm. For example, rotate your arm to rotate the base. Control the secondary joint with your wrist.
  
