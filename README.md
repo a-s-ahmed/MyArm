@@ -27,14 +27,11 @@ For Final Design:
       
       2 x MPU6050 (accelerometer and gyroscope)
       
-      1 x Arduino Uno
-      
-      
 For both:
 
       1 x Glove
 
-      1 x arduino Mega2560
+      2 x arduino Mega2560
 
       1 x One square foot of acrylic (And access to a lasercutter)
 
@@ -46,7 +43,26 @@ For both:
 
 # Wiring Instructions
 
-To be filled in.
+Transceiver Wiring
+------------------
+ This is the order from the left to the right of the pins starting from the top left pin:
+ 
+- VCC-------> 3.3V Pin
+- GND-------> GND Pin on arduino
+- CSN-------> PWM Digital Pin 8
+- CS -------> PWM Digital Pin 7
+- SCK ------> Digital Pin 52
+- MOSI -----> Digital Pin 51
+
+This wiring is done to the bottom Right Pin.
+- MISO -----> Digital Pin 50
+
+The bottom Left Pin remains unwired.
+
+FYI: This wiring is identical to the other Transceiver on the Receiving end.
+However, the wiring mentioned above is for an Arduino Mega2560 
+
+------------------
 
 # Running Instructions V1:
 *This build is completely wired.*
