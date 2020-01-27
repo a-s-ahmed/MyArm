@@ -77,35 +77,53 @@ Accelerometer MPU6050:
 - GND <--> GND
 - VCC <--> 5V
 
-# Wiring Instructions V2:
+# Wiring Instructions V2: 
 -----------------------
+Arduino 1 - Connected to the robotic arm
+Arduino 2 - Connected to the glove
 (Servo-colour-wiring instructions based on SG90 model) 
-Servo-Claw:
+Servo-Claw: Arduino 1
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 6
 
-Servo-Base:
+Servo-Base: Arduino 1
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 5
 
-Servo-Height:
+Servo-Height: Arduino 1
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 9
 
-Servo-Arm:
+Servo-Arm: Arduino 1
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 4
 
-Transceiver Wiring
------------------------
+Accelerometer MPU6050 (for arm) : Arduino 2
+--------------------------------------------
+- AD0 <--> Digital Pin 13
+- SDA <--> 20SDA
+- SCL <--> 21 SCL
+- GND <--> GND
+- VCC <--> 5V
+
+Accelerometer MPU6050 (for hand) : Arduino 2
+--------------------------------------------
+- AD0 <--> Digital Pin 
+- SDA <--> 20SDA
+- SCL <--> 21 SCL
+- GND <--> GND
+- VCC <--> 5V
+
+Transceiver Wiring: one for Arduino 1 and one for Arduino 2
+-----------------------------------------------------------
  This is the order from the left to the right of the pins starting from the top left pin:
  
 - VCC <-------> 3.3V Pin
