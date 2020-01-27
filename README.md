@@ -62,11 +62,11 @@ Wiring Instructions V1:
 - Yellow wire <--> Digital Pin 4
 
 # Accelerometer MPU6050:
-INT <--> Digital Pin 13
-SDA <--> 20SDA
-SCL <--> 21 SCL
-GND <--> GND
-VCC <--> 5V
+- INT <--> Digital Pin 13
+- SDA <--> 20SDA
+- SCL <--> 21 SCL
+- GND <--> GND
+- VCC <--> 5V
 
 Wiring Instructions V2:
 -----------------------
@@ -87,13 +87,6 @@ Wiring Instructions V2:
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 4
-
-# Accelerometer MPU6050:
-INT <--> Digital Pin 13
-SDA <--> 20SDA
-SCL <--> 21 SCL
-GND <--> GND
-VCC <--> 5V
 
 # Transceiver Wiring
  This is the order from the left to the right of the pins starting from the top left pin:
