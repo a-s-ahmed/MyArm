@@ -41,54 +41,64 @@ Components:
 
 -     TOBEFILLED IN x female to male wires
 
-Wiring Instructions V1:
------------------------
+# Wiring Instructions V1:
+
 (Servo-colour-wiring instructions based on SG90 model) 
-# Servo-Claw:
+ Servo-Claw:
+ -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 6
-# Servo-Base:
+Servo-Base:
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 5
-# Servo-Height:
+Servo-Height:
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 9
-# Servo-Arm:
+Servo-Arm:
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 4
 
-# Accelerometer MPU6050:
+Accelerometer MPU6050:
+-----------------------
 - INT <--> Digital Pin 13
 - SDA <--> 20SDA
 - SCL <--> 21 SCL
 - GND <--> GND
 - VCC <--> 5V
 
-Wiring Instructions V2:
+# Wiring Instructions V2:
 -----------------------
 (Servo-colour-wiring instructions based on SG90 model) 
-# Servo-Claw:
+Servo-Claw:
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 6
-# Servo-Base:
+Servo-Base:
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 5
-# Servo-Height:
+Servo-Height:
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 9
-# Servo-Arm:
+Servo-Arm:
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 4
 
-# Transceiver Wiring
+Transceiver Wiring
+-----------------------
  This is the order from the left to the right of the pins starting from the top left pin:
  
 - VCC <-------> 3.3V Pin
