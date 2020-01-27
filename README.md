@@ -12,53 +12,57 @@ Components:
 -------------
 # For Initial Design:
       
--     1 x V1 folder
+-1 x V1 folder
       
--     1 x MPU6050 (accelerometer and gyroscope)
+-1 x MPU6050 (accelerometer and gyroscope)
 
--     1 x 330 Ohm Resistor
+-1 x 330 Ohm Resistor
 
--     1 x Green LED
+-1 x Green LED
 
      
 # For Final Design:
       
--     1 x V2 folder.
+-1 x V2 folder.
       
--      2 x MPU6050 (accelerometer and gyroscope)
+-2 x MPU6050 (accelerometer and gyroscope)
       
 # For both:
 
--     1 x Glove
+-1 x Glove
 
--     2 x arduino Mega2560
+-2 x arduino Mega2560
 
--     1 x One square foot of acrylic (And access to a lasercutter)
+-1 x One square foot of acrylic (And access to a lasercutter)
 
--     1 x Grove Touch Sensor (and its respective cord)
+-1 x Grove Touch Sensor (and its respective cord)
 
--     TOBEFILLED IN x male-to-male wires
+-TOBEFILLED IN x male-to-male wires
 
--     TOBEFILLED IN x female to male wires
+-TOBEFILLED IN x female to male wires
 
 # Wiring Instructions V1:
 
-(Servo-colour-wiring instructions based on SG90 model) 
+*(Servo-colour-wiring instructions based on SG90 model)* 
+ 
  Servo-Claw:
  -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 6
+
 Servo-Base:
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 5
+
 Servo-Height:
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 9
+
 Servo-Arm:
 -----------------------
 - Brown wire  <--> GND
