@@ -46,7 +46,7 @@ Components:
 *(Servo-colour-wiring instructions based on SG90 model)* 
  
  Servo-Claw:
- -----------------------
+-----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 6
@@ -85,16 +85,19 @@ Servo-Claw:
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 6
+
 Servo-Base:
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 5
+
 Servo-Height:
 -----------------------
 - Brown wire  <--> GND
 - Red wire    <--> 5V
 - Yellow wire <--> Digital Pin 9
+
 Servo-Arm:
 -----------------------
 - Brown wire  <--> GND
