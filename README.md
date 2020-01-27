@@ -82,6 +82,7 @@ Accelerometer MPU6050:
 Arduino 1 - Connected to the robotic arm
 Arduino 2 - Connected to the glove
 (Servo-colour-wiring instructions based on SG90 model) 
+
 Servo-Claw: Arduino 1
 -----------------------
 - Brown wire  <--> GND
