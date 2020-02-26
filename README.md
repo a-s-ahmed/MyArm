@@ -1,7 +1,7 @@
 # Emulate Arm Motion On Robotic Arm: HACKED 2020 
 # Best Hardware Project Winner and 2nd Overall!
 
-Group Members: Dawood Ali (mali2@ualberta.ca), Amro Amanuddein (amroaman@hotmail.com), Ahmed Sharif Ahmed (asahmed2@ualberta.ca) and Portia Rayner (rayner@ualberta.ca)
+Group Members: Dawood Ali (mali2@ualberta.ca), Amro Amanuddein (amanudde@ualberta.ca), Ahmed Sharif Ahmed (asahmed2@ualberta.ca) and Portia Rayner (rayner@ualberta.ca)
 
 Create a lasercut robotic arm which can remotely emulate your own within 24 hours
 
